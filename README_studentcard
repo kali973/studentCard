@@ -7,8 +7,7 @@ Il y a d'autre part le code exécuté dans l'émulateur.
 Dans notre cas il s'agit d'une carte étudiante effectuant plusieurs 
 fonctionnalités parmi lesquels:
 
-
-"14: update the DES key within the card" 
+"14: update the DES key within the card"
 "13: uncipher a file by the card"
 "12: cipher a file by the card" 
 "11: cipher and uncipher a name by the card" 
