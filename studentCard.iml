@@ -7,5 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="api" level="project" />
+    <orderEntry type="library" exported="" name="api1" level="project" />
+    <orderEntry type="library" exported="" name="base-core" level="project" />
+    <orderEntry type="library" exported="" name="base-opt" level="project" />
+    <orderEntry type="library" exported="" name="bcprov-jdk15on-150" level="project" />
   </component>
 </module>
