@@ -6,7 +6,7 @@ import javacard.security.*;
 import javacardx.crypto.*;
 
 
-public class TheApplet extends Applet {
+public class theApplet extends Applet {
 
 
 	static final byte UPDATECARDKEY						= (byte)0x14;
@@ -67,7 +67,7 @@ public class TheApplet extends Applet {
 	
 	/* FIN DE CRYPTO */
 	
-	protected TheApplet() {
+	protected theApplet() {
 		byte[] pincodeWrite = {(byte)0x30,(byte)0x30,(byte)0x30,(byte)0x30}; // PIN code "0000"
 		byte[] pincodeRead 	= {(byte)0x31,(byte)0x31,(byte)0x31,(byte)0x31}; // PIN code "1111"
 		
@@ -109,7 +109,7 @@ public class TheApplet extends Applet {
 	/* FIN DE CRYPTO */
 	
 	public static void install(byte[] bArray, short bOffset, byte bLength) throws ISOException {
-		new TheApplet();
+		new theApplet();
 	} 
 
 
