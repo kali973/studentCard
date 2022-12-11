@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base-opt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/OCF1.2/lib/base-opt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
