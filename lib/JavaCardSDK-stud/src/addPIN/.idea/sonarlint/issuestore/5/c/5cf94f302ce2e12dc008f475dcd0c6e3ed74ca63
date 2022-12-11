@@ -1,0 +1,42 @@
+
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§èï¶şÿÿÿÿ
+l	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úèÂøıÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÌ»Òÿÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈúÌÎşÿÿÿÿ
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏâÃª
+g	java:S116"RRename this field "DISPLAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‡‚ö
+Œ
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÂÄúÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(û™‰¶üÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¼ †•øÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(åÓİ¡øÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(–Ğ¾ûÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ş¬©‡üÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(„øùùÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(œõì…
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(¡–½„
+O
+java:S1854¬"8Remove this useless assignment to local variable "resp".(¾ÔÃ¡
+O
+java:S1854¦"8Remove this useless assignment to local variable "resp".(¾ÔÃ¡
+O
+java:S1854¡"8Remove this useless assignment to local variable "resp".(¾ÔÃ¡
+O
+java:S1854œ"8Remove this useless assignment to local variable "resp".(¾ÔÃ¡
+O
+java:S1854–"8Remove this useless assignment to local variable "resp".(¾ÔÃ¡
+M	java:S106v"9Replace this use of System.out or System.err by a logger.(Éİö#
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Äü¥İúÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(ıšÁşÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+N	java:S106…"9Replace this use of System.out or System.err by a logger.(Üâî
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(ü¢öö
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(Õáù
+@
+java:S1481")Remove this unused "resp" local variable.(÷˜åæ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(† éà
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(ıîùê
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ôğÍ¸ùÿÿÿÿ
+N	java:S106¤"9Replace this use of System.out or System.err by a logger.(ÈòJ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÇŠüéşÿÿÿÿ
